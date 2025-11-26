@@ -1,0 +1,1 @@
+This project demonstrates a complete capital-markets data workflow using Python and Jupyter Notebook. The notebook pulls 10 years of historical price data for the HYG ETF (High-Yield Corporate Bond ETF) using the yfinance API, computes daily log returns, and visualizes long-term price trends.
